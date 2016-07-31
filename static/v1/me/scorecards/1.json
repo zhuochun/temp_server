@@ -1,0 +1,8 @@
+{
+    "header": {
+        "X-Request-ID": "x-request-id"
+    },
+    "body": {
+        "id": 1
+    }
+}
